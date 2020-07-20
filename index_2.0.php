@@ -1,4 +1,4 @@
-  <!-- WERSJA 1.0 -->
+  <!-- WERSJA 2.0 -->
 
 
 <!DOCTYPE html>
